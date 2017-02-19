@@ -58,6 +58,13 @@ header h1 {
     padding: 8px;
 }
 
+.section--content--tweet {
+    width: 500px;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .z-3 {
     box-shadow: 0 13px 25px 0 rgba(0,0,0, 0.3), 0 11px 7px 0 rgba(0, 0, 0, 0.19);
 }
